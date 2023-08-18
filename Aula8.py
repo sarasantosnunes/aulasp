@@ -76,3 +76,7 @@ fatorial =  4*3*2*1
 print(floor(2.7))
 
 
+
+
+
+
