@@ -1,17 +1,13 @@
 
-    
-
-
-
 # desafio 17 
 
 numero = int(input('digita sua idade')) 
 
 if numero < 13:
     print('voce e uma criança ')
-elif numero <= 19:
+elif 13 <= numero <= 19:
     print('voce e uma adolecente')
-elif numero > 20:
+else:
    print(' voce e um adulto') 
     
            
